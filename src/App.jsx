@@ -155,6 +155,9 @@ function App() {
           </div>
         </div>
       </div>
+        <footer className="absolute bottom-0 left-1/2 -translate-x-1/2 text-center font-bold text-lg underline py-2">
+        <span>Prioritize. Execute. Win</span>
+        </footer>
     </>
   );
 }
