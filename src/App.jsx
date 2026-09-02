@@ -22,7 +22,7 @@ function App() {
     localStorage.setItem("todos", JSON.stringify(newTodos));
   };
 
-  const toggleFinished = (e) => {
+  const toggleFinished = () => {
     setshowFinished(!showFinished);
   };
 
